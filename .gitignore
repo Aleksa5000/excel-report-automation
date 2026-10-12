@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+# generated reports (sample_data/ is intentionally tracked)
+report*.xlsx
