@@ -88,4 +88,4 @@ Need a report, spreadsheet, or data-cleaning workflow automated? **Contact me on
 
 ## License
 
-MIT
+All rights reserved. This is a portfolio sample: you can read and run the code to evaluate my work, but you may not use it commercially, redistribute it or build on it without my written permission. See [LICENSE](LICENSE).
